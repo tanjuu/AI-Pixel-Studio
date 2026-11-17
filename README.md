@@ -1,5 +1,9 @@
 # AI Pixel Studio
 
+## Application Screenshot
+
+![AI Pixel Studio](ai-pixel-studio.png)
+
 AI Pixel Studio is a Python-based desktop image editing application built with PySide6.
 
 ## Features
